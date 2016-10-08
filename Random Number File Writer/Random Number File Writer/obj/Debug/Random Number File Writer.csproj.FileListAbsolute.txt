@@ -1,0 +1,13 @@
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csprojResolveAssemblyReference.cache
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.RandomNumberGenerator.resources
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.Cache
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.pdb
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.manifest
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.application
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe.manifest
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.application
